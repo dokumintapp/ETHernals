@@ -1,5 +1,4 @@
 ## Dokumint
-### ETHernals hackthon submission
 
 Showcase your certicates as NFTs
 
