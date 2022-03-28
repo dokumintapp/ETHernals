@@ -1,4 +1,4 @@
-## Dokumint
+# Dokumint
 
 Showcase your certificates as NFTs
 
