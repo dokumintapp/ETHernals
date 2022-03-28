@@ -1,6 +1,6 @@
 ## Dokumint
 
-Showcase your certicates as NFTs
+Showcase your certificates as NFTs
 
 ## Run
 
